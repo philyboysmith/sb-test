@@ -1,0 +1,218 @@
+.package-slider-block_page{
+	overflow-x:hidden;
+	padding-bottom: ($visual-rhythm/2);
+	
+	&.extra-space{
+		padding: ($visual-rhythm * 2) 0;
+		@include media(">tablet") {
+			padding: ($visual-rhythm * 3) 0;
+		}
+	}
+
+	.swiper-container-packages{
+		height: 100%;
+		position: relative;
+		overflow: hidden;
+		width: 100%;
+	}
+
+	>p{
+		padding-left: $visual-rhythm;
+		padding-right: $visual-rhythm;
+		padding-bottom: ($visual-rhythm * 2);
+	}
+
+	.swiper-slide{
+		@include transition(all, $fast);
+		text-align: center;
+		&.swiper-slide-prev{
+			text-align: right;
+		}
+		&.swiper-slide-next{
+			text-align: left;
+		}
+	}
+
+	span{
+		@include rem(font-size, 14px);
+		@include rem(line-height, 18px);
+	}
+
+	p{
+		@include rem(font-size, 18px);
+		@include rem(line-height, 20px);
+		@include media(">tablet") {
+			@include rem(font-size, 24px);
+			@include rem(line-height, 26px);
+		}
+
+		text-align: center;
+		// max-width: 560px;
+		margin-left: auto;
+		margin-right: auto;
+
+	}
+
+	.package{
+		@extend .clearfix; 
+		padding: 0;
+		width: 100%;
+		display: inline-block;
+		// max-width: 252px;
+		// @include media(">phone") {
+		// 	max-width: 352px;
+		// }
+		// @include media(">tablet") {
+		// 	max-width: 450px;
+		// 	padding: $visual-rhythm;
+		// }
+		.tile{
+			padding: 0px;
+			border: none;
+			margin-bottom: 0;
+			a{
+				border: none;
+			}
+		}
+
+		.info-wrap{
+			position: relative;
+			min-height: 340px;
+			padding-bottom: $visual-rhythm * 2;
+			background: $highlight;
+			@extend .clearfix;
+			padding: $visual-rhythm;
+			color: $white;
+			float: left;
+			@include media(">tablet") {
+				min-height: 430px;
+				padding: $visual-rhythm * 2;
+			}
+			p{
+				text-align: left;
+				padding: 0;
+				padding-bottom: $visual-rhythm;
+			}
+		}
+		.amenities{
+			display: block;
+			.amenity{
+				width: 50%;
+				float: left;
+				color: $dark_highlight;
+				text-align: left;
+				margin-bottom: $visual-rhythm;
+				padding-right: 10px;
+				.icon{
+					width: 20px;
+					display: inline-block;
+					img{
+						max-width: 100%;
+					}
+				}
+			}
+		}
+
+		.price{
+			width: 100%;
+			position: absolute;
+			bottom: 0;
+			text-align: center;
+			padding-bottom: $visual-rhythm;
+			left: 0;
+
+			span, h4{
+				display: inline-block;
+				vertical-align: middle;
+				margin: 0;
+				padding:0 5px;
+			}
+		}
+	}
+
+	.swipe-prev-button,
+	.swipe-next-button{
+		@include transition(margin $fast);
+		cursor: pointer;
+		margin-top: -30px;
+		height: 60px;
+		width:60px;
+		background: $highlight-two;
+		position: absolute;
+		top: 50%;
+		z-index: 3;
+		svg{
+			fill: $highlight;
+		}
+
+		.slant{
+			position: relative;
+			display: inline-block;
+			color: #fff;
+			width: 100%;
+			height: 60px;
+			display: block;
+			&:after {
+				content: '';
+				position: absolute;
+				top: 0;
+				right: -10px;
+				left: -10px;
+				height: 100%;
+				background: $dark_highlight;
+				-webkit-transform-origin: 50% 50%;
+				-ms-transform-origin: 50% 50%;
+				transform-origin: 50% 50%;
+				z-index: -1;
+				-webkit-transform: skew(12deg);
+				-ms-transform: skew(12deg);
+				transform: skew(12deg);
+			}
+		}
+	}
+	.swipe-next-button{
+		right: 0;
+		margin-right: -30px;
+		svg{
+			position: absolute;
+			left: 0;
+			width: 27px;
+			top: 14px;
+		}
+	}
+
+	.swipe-prev-button{
+		left: 0;
+		margin-left: -30px;
+		svg{
+			position: absolute;
+			right: 0;
+			width: 27px;
+			top: 14px;
+		}
+	}
+}
+
+.no-touchevents{
+
+	.package-slider-block_page{
+
+		.swipe-next-button, .swipe-prev-button{
+			&:hover, &:active{
+				margin-left: 0;
+				margin-right: 0;
+			}
+		}
+	}
+}
+
+.touchevents{
+	.package-slider-block_page{
+		.swipe-next-button, .swipe-prev-button{
+			&:active{
+				margin-left: 0;
+				margin-right: 0;
+			}
+		}
+	}
+}

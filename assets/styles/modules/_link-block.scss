@@ -1,0 +1,51 @@
+.links-block {
+	@extend .clearfix;
+	display: none;
+	position: fixed;
+	top: 90px;
+	left: 0;
+	right: 0;
+	z-index: 6;
+	@include media(">phone") {
+		display: block;
+	}
+	a{
+		display: block;
+		position: relative;
+		@include transition(all $fast);
+		color: $highlight;
+		background: #fff;
+		font-family:Eurostile;
+		font-style: italic;
+		text-transform: uppercase;
+		border: 1px solid;
+		padding: 10px 15px 5px;
+		display: block;
+		&:hover, &.active-section{
+			border: 1px solid $highlight;
+			background: $highlight;
+			color: $white;
+		}
+	}
+	.link{
+		display: inline-block;
+	}
+	.text-wrap{
+		    padding: 10rem 0;
+		&.absolute{
+		    padding: 0rem;
+			position: absolute;
+			top: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			.vertical-align{
+				height: 100%;
+			}
+		}
+		h2{
+			font-size: 4rem;
+			color: $dark-highlight;
+		}
+	}
+}

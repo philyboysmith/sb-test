@@ -1,0 +1,67 @@
+.line-up-menu{
+	@extend .clearfix;
+	border-top: 1px solid $dark_10_highlight;
+	border-bottom: 1px solid $dark_10_highlight;
+	padding: ($visual-rhythm / 2) ($visual-rhythm * 2);
+	padding: ($visual-rhythm / 2) ($visual-rhythm/2);
+	float: left;
+	width: 100%;
+
+	@include media(">phone") {
+		padding: ($visual-rhythm / 2) ($visual-rhythm + $visual-rhythm / 2);
+	}
+
+	@include media(">tablet") {
+		padding: ($visual-rhythm / 2) ($visual-rhythm * 2);
+	}
+
+	.filters{
+		float: left;
+		width: 100%;
+		@include media(">tablet") {
+			width: auto;
+		}
+		a{
+			margin-right: 1rem;
+			margin-bottom: 1rem;
+			width: 100%;
+			float: left;
+
+			&:nth-child(even){
+				margin-right: 0px;
+			}
+			@include media(">phone") {
+				width: calc(50% - .5rem);
+			}
+			@include media(">tablet") {
+				width: auto;
+				&:nth-child(even){
+					margin-right: 1rem;
+				}
+			}
+			@include media(">tablet") {
+				margin-bottom: 0;
+			}
+		}
+	}
+	.poster{
+		float: left;
+		width: 100%;
+
+		.gost-button{
+			width: 100%;
+		}
+
+		@include media(">tablet") {
+			width: auto;
+		}
+
+		@include media(">tablet") {
+			float: right;
+		}
+	}
+
+	.gost-button{
+		margin-bottom: 0;
+	}
+}

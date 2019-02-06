@@ -1,0 +1,38 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to form gallery blocks.
+// -----------------------------------------------------------------------------
+
+.gallery-image{
+	padding: 0 $visual-rhythm $visual-rhythm $visual-rhythm;
+	float: left;
+	width: 100%;
+
+	@include media(">phone") {
+		padding: 0 ($visual-rhythm * 2) ($visual-rhythm * 2) ($visual-rhythm * 2);
+	}
+
+	img{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	&.half{
+		width: 100%;
+		@include media(">phone") {
+			width: 50%;
+		}
+
+
+		&.odd {
+			@include media(">phone") {
+				padding-right: $visual-rhythm;
+			}
+		}
+		&.even {
+			@include media(">phone") {
+				padding-left: $visual-rhythm;
+			}
+		}
+
+	}
+}

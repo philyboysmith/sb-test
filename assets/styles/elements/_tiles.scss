@@ -1,0 +1,524 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to tile components.
+// -----------------------------------------------------------------------------
+
+.tile-block{
+	@extend .clearfix;
+	padding: 0 0 6rem 0;
+
+	&.hidden {
+		display: none;
+	}
+
+	&.visible {
+		padding: 0 2rem;
+	}
+
+	&.four-up-wrap, &.five-up-wrap{
+		margin: 0 0 6rem 0;
+		padding: 0
+	}
+
+	// &.light{
+	// 	color: $white;
+
+	// 	h3, p{
+	// 		color: inherit;
+	// 	}
+	// }
+
+	&.extra-space{
+		margin: 0 0 6rem 0;
+		padding: 0;
+		&.four-up-wrap, &.five-up-wrap{
+			margin: 0 0 6rem;
+			padding: 0;
+		}
+	}
+
+	h3{
+		text-align: center;
+		@include media("<phone") {
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+	}
+
+	h5{
+		margin-left: 0;
+		margin-bottom: 0;
+		max-width: 80%;
+	}
+
+	> p{
+		max-width: 560px;
+		padding-bottom: $visual-rhythm * 2;
+
+		@include rem(font-size, 20px);
+		@include rem(line-height, 24px);
+
+		@include media(">tablet") {
+			@include rem(font-size, 24px);
+			@include rem(line-height, 30px);
+		}
+		text-align: center;
+	}
+
+	.call-to-action{
+		text-align: center;
+		margin: 3rem 0 0 0;
+	}
+}
+
+.tile-block_promo{
+	@extend .tile-block;
+	margin-bottom: 6rem;
+	padding: 0;
+	.slice-inner{
+		height: 45vh;
+		width: 100%;
+	}
+}
+
+.tile-block_jumbo{
+	@extend .tile-block;
+
+	.slice-inner{
+		height: 100%;
+		width: 100%;
+	} 
+}
+
+.tile{
+	@extend .clearfix;
+	float: left;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	margin-bottom: $visual-rhythm;
+	@include media(">phone") {
+		margin-bottom: 0px;
+		padding: $visual-rhythm / 2;
+	}
+	@include media(">tablet") {
+		margin-bottom: 0;
+		padding: $visual-rhythm;
+	}
+
+	&:hover{
+		.gradient-hover{
+			opacity: 0.8;
+		}
+	}
+
+	a{
+		display: block;
+		position: relative;
+		vertical-align: top;
+		// border: none;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+	.tile-inner{
+		@extend .clearfix;
+		position: relative;
+		display: block;
+		overflow: hidden;
+		&:before {
+			content: '';
+			display: block;
+			padding-top: 66.66666667%;
+			background: $loading-grey;
+		}
+	}
+
+	h3, h2{
+		padding: 0 ($visual-rhythm/2);
+		padding-bottom: $visual-rhythm;
+	}
+
+	.img-wrap{
+		// float: left;
+		height: auto;
+		width: 100%;
+		text-align: left;
+		img{
+			width: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: auto;
+		}
+	}
+
+	.text-wrap{
+		float: left;
+		text-align: left;
+		position: absolute; 
+		bottom:  $visual-rhythm / 2;
+		left: $visual-rhythm;
+		z-index: 2;
+		color: $white;
+	    width: 80%;
+		@include media(">phone") {
+			bottom: 0;
+			left: $visual-rhythm;
+			width: 70%;
+		}
+
+	}
+
+	.cover{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+
+		img, video{
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			margin: auto;
+			min-width: 50%;
+			min-height: 50%;
+			overflow: hidden;
+			z-index: 1;
+
+			&.cover-image{
+				z-index: 2;
+			}
+		}
+	}
+
+	&.one-up{
+		width: 100%;
+		@include media(">tablet") {
+			width: 80%;
+		}
+	}
+
+	&.two-up{
+		@include media(">phone") {
+			width: 50%;
+		}
+		.text-wrap{
+			width: 100%;
+			top: 33.3333%;
+			left: 0;
+			h5 {
+				text-align: center;
+				margin: 0 auto;
+				font-size: 2.2rem;
+				line-height: 2.4rem;
+			}
+		}
+		.call-to-action {
+			width: 50%;
+			position: absolute;
+			right: 0;
+			bottom: 2rem;
+			left: 0;
+			margin: 0 auto;
+			z-index: 3;
+			a {
+				&.button, &.js-ajax-entry-link {
+					position: relative;
+				}
+			}
+		}
+		.gradient-hover{
+			opacity: 0.8;
+		}
+	}
+	&.three-up{
+		width: 100%;
+		@include media(">tablet") {
+			width: 33.3333%;
+		}
+		&:hover{
+			.gradient-hover{
+				opacity: 0.3;
+			}
+		}
+		.text-wrap{
+			width: 100%;
+			top: 33.3333%;
+			left: 0;
+			h5 {
+				text-align: center;
+				margin: 0 auto;
+				font-size: 2.2rem;
+				line-height: 2.4rem;
+			}
+		}
+		.call-to-action {
+			width: 50%;
+			position: absolute;
+			right: 0;
+			bottom: 15%;
+			left: 0;
+			margin: 0 auto;
+			z-index: 3;
+			@media only screen and (max-width: 375px)  {
+				width: 75%;
+			}
+			a {
+				&.button {
+					position: relative;
+
+				}
+				&.js-ajax-entry-link {
+					position: relative;
+					@extend %typographic-rhythem;
+					@include rem(font-size, 20px);
+					@include rem(line-height, 22px);
+					@include transition(background $fast);
+					padding: 10px 20px;
+					display: inline-block;
+					background: $highlight;
+					color: $white;
+
+					&:hover{
+						background: $highlight_rollover;
+					}
+				}
+			}
+		}
+		.gradient-hover{
+			opacity: 0.8;
+		}
+	}
+
+	&.four-up{
+		width: 100%;
+
+		&.two-up-mob{
+			width: 50%;
+			padding: 0 $visual-rhythm / 2;
+			.text-wrap{
+				left: 1rem;
+				bottom: 0;
+				h5{
+					padding-bottom: 0;
+				}
+			}
+		}
+
+		@include media(">phone") {
+			width: 50%;
+			padding: $visual-rhythm / 2;
+			&.two-up-mob{
+				padding: $visual-rhythm / 2;
+				.text-wrap{
+					bottom: 0;
+				    left: 2rem;
+					h5{
+						padding-bottom: 1rem;
+					}
+				}
+			}
+		}
+		@include media(">tablet") {
+			width: 25%;
+			&.two-up-mob{
+				width: 25%;
+			}
+		}
+		.text-wrap{
+			width: auto;
+		}
+	}
+
+	&.five-up{
+		width: 50%;
+		padding: $visual-rhythm / 2;
+		@include media(">tablet") {
+			width: 20%;
+		}
+		
+			&:after {
+				content: "";
+				padding: 0;
+				margin: 0;
+				pointer-events: none;
+				background-color: transparent;
+				display: block;
+				z-index: 1;
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				opacity: 1;
+				transition: opacity .35s ease-out;
+				width: 0;
+				height: 0;
+				border-style: solid;
+				border-width: 20px 0 20px 32px;
+				border-color: transparent transparent transparent rgba(255,255,255,.75);
+			}
+		
+		.text-wrap{
+			width: 100%;
+			// left: $visual-rhythm / 2;
+		}
+	}
+
+	&.promo-tile{
+		width: 100%;
+		height:56.25vw;
+		@include media(">tablet") {
+			width: 40%;
+			height: 50%;
+		}
+
+		.tile-inner{
+			height: 100%;
+			overflow: hidden;
+			&:before {
+				content: none;
+				display: none;
+				padding-top: 0%;
+			}
+		}
+
+		&:first-child{
+			padding: 0px;
+			@include media(">tablet") {
+				width: 60%;
+				padding-right: 1px;
+				height: 100%;
+				.tile-inner{
+					height: 100%;
+				}
+			}
+		}
+
+		&:nth-child(2n){
+			padding: 0px;
+			@include media(">tablet") {
+				padding-bottom: 1px;
+				padding-left: 1px;
+			}
+		}
+
+		&:nth-child(3n){
+			padding: 0px;
+			@include media(">tablet") {
+				padding-top: 1px;
+				padding-left: 1px;
+			}
+		}
+	}
+
+	&.jumbo-tile{
+		width: 90%;
+		height: 35vw;
+		margin-left: auto;
+		margin-right: auto;
+		float: none;
+
+		.tile-inner{
+			height: 100%;
+			overflow: hidden;
+		}
+
+		.text-wrap{
+			width: 100%;
+			height: 100%;
+			top:0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			text-align: center;
+			padding-left: 0px;
+
+			.bold{
+				font-family: $semi-bold;
+			}
+
+			p{
+				max-width: 550px;
+				text-align: center;
+			}
+		}
+	}
+}
+
+.panel{
+	.tile{
+		.text-wrap{
+			width: 90%;
+			h5{
+				margin-left: 0;
+				padding: 0 0 $visual-rhythm 0;
+			}
+		}
+	}
+}
+.gradient{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+	bottom: -1px;
+	opacity: 0.3;
+	@include background(linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)) left repeat);
+}
+
+.gradient-hover{
+	@include transition(all $mid);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+	bottom: -1px;
+	opacity: 0.3;
+	@include background(linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)) left repeat);
+}
+
+.split-block{
+	.tile-block{
+		padding: $visual-rhythm / 2;
+		@include media(">desktop") {
+			padding: $visual-rhythm;
+		}
+	}
+	.tile{
+		&.four-up{
+			width: 50%;
+			padding: $visual-rhythm / 2;
+			margin-bottom: 0;
+			.text-wrap{
+				left: 1rem;
+				bottom: 0;
+			}
+			h5{
+				padding-bottom: 0;
+			}
+
+		@include media(">desktop") {
+			width: 25%;
+			margin-bottom: $visual-rhythm;
+			.text-wrap{
+				bottom: 1rem;
+				left: 2rem;
+			}
+			h5{
+				// padding-bottom: 1rem;
+			}
+
+		}
+		.text-wrap{
+			width: auto;
+		}
+	}
+	}
+}

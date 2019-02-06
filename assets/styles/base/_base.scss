@@ -1,0 +1,96 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles dealing with the main content area not specific elements
+// -----------------------------------------------------------------------------
+
+/**
+ * Set up a decent box model on the root element
+ */
+html {
+  box-sizing: border-box;
+}
+
+/**
+ * Make all elements from the DOM inherit from the parent box-sizing
+ * Since `*` has a specificity of 0, it does not override the `html` value
+ * making all elements inheriting from the root box-sizing value
+ * See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body{
+	width: 100%;
+	&.locked{
+		overflow: hidden;
+		-webkit-overflow-scrolling: auto;
+	}
+}
+
+.content{
+	text-align: center;
+
+	p{
+		max-width: 800px;
+		// padding-left: $visual-rhythm;
+		// padding-right: $visual-rhythm;
+	}
+	// margin-bottom: 60px;
+
+}
+
+.zopim{
+	right: 0px !important;
+	bottom: 0px !important;
+	// z-index: 10 !important;
+}
+
+.black{
+	background: $black;
+}
+
+p{
+	text-align: left;
+	margin: 0 auto $visual-rhythm auto;
+}
+
+*::-moz-selection {
+	background: black;
+	color: white;
+}
+*::selection {
+	background: black;
+	color: white;
+}
+
+.black{
+	*::-moz-selection {
+	background: white;
+	color: black;
+	}
+	*::selection {
+		background: white;
+		color: black;
+	}
+
+	.grid-block{
+		*::-moz-selection {
+			background: black;
+			color: white;
+		}
+		*::selection {
+			background: black;
+			color: white;
+		}
+	}
+}
+a{
+	border-bottom: 0px;
+}
+
+img{
+	max-width: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
+

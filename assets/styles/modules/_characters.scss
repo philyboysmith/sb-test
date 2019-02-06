@@ -1,0 +1,100 @@
+//
+//
+// Character stuff
+//
+//
+
+// Example
+// -------
+
+// <div class="char__wrapper bottom right">
+//   <div id="Tree" class="char js-random-action"></div>
+// </div>
+
+
+//
+// Keyframes (behaviour and action)
+// -------------------------------------------------
+
+@keyframes behaviour {
+  from { background-position: 0px; }
+  to { background-position: -(637px*8); }
+}
+
+@keyframes action {
+  from { background-position: -(637px*8); }
+  to { background-position: -(637px*16); }
+}
+
+//
+// Characters
+// -------------------------------------------------
+
+.char {
+  display: none;
+  pointer-events: none;
+  position: relative;
+
+  a{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 50%;
+    top: 50%;
+    @include transform(translate(-50%, -50%));
+    pointer-events:all;
+  }
+
+  @include media(">phone") {
+    display: block;
+  }
+
+  width: 637px;
+  height: 600px;
+
+  &.animate{
+    @include animation(behaviour 1s steps(8) infinite);
+  }
+  &.action {
+    @include animation(action 1s steps(8) infinite);
+  }
+
+  &.ready{
+    &#champagne { background: url('/assets/images/sprite-champagne.png'); }
+    &#goggles { background: url('/assets/images/sprite-goggles.png'); }
+    &#sausage { background: url('/assets/images/sprite-sausage.png'); }
+    &#speakers { background: url('/assets/images/sprite-speakers.png'); }
+    &#stein { background: url('/assets/images/sprite-stein.png'); }
+    &#sun { background: url('/assets/images/sprite-sun.png'); }
+    &#tree { background: url('/assets/images/sprite-tree.png'); }
+  }
+}
+
+
+//
+// Postioning3
+// -------------------------------------------------
+
+.char__wrapper {
+  @include transform(translate(0%, -50%) scale(0.5));
+  position: absolute;
+  z-index: 6;
+
+  &.top {
+    top: 0px;
+  }
+  &.right {
+    top: 0px;
+    right: -160px;
+  }
+  &.left {
+    top: 0px;
+    left: -160px;
+
+  }
+  &.four-o-four{
+    @include transform(translate(-50%, -50%) scale(0.6));
+    top:50%;
+    left: 50%;
+  }
+}

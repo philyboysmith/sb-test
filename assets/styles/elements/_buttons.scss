@@ -1,0 +1,85 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button and call to action components.
+// -----------------------------------------------------------------------------
+
+.button{
+	@extend %typographic-rhythem;
+	@include rem(font-size, 20px);
+	@include rem(line-height, 22px);
+	@include transition(background $fast);
+	padding: 10px 20px 5px;
+	display: inline-block;
+	border: 1px $highlight_rollover solid;
+	// background: $highlight;
+	background: $white;
+	color: $highlight_rollover;
+	font-family: Eurostile;
+	text-transform:uppercase;
+	font-style: italic;
+	cursor: pointer;
+	@media only screen and (max-width: 375px)  {
+		width: 75%;
+	}
+
+	&:hover{
+		background: $highlight_rollover;
+		border: 1px $highlight_rollover solid;
+		color:$white;
+		svg {
+			fill: $white;
+		}
+	}
+}
+
+.gost-button{
+	@extend %typographic-rhythem;
+	@include rem(font-size, 20px);
+	@include rem(line-height, 22px); 
+	@include transition(background $fast, color $fast);
+	cursor: pointer;
+	padding: 10px 20px;
+	display: inline-block;
+	border: 1px solid $highlight;
+	color: $highlight;
+	&:hover, &.active{
+		background: $highlight_rollover;
+		color: $white;
+	}
+}
+
+.play-button{
+	figure {
+	  height: 100%;
+	  width: 100%;
+	  margin:0px;
+	  display: -ms-flex;
+	  display: -webkit-flex;
+	  display: flex;
+	}
+
+	figure button[name="play"] {
+		@include transition(background, $fast);
+		width: 100px;
+		height: 100px;
+		background: $highlight;
+		border: none;
+		border-radius: 100%;
+		margin: auto;
+		cursor: pointer;
+		outline: none;
+		&:hover{
+			background: $highlight_rollover;
+		}
+	}
+
+	figure button[name="play"]::after {
+		content: '';
+		display: inline-block;
+		position: relative;
+		top: 5px;
+		left: 3px;
+		border-style: solid;
+		border-width: 20px 0 20px 25px;
+		border-color: transparent transparent transparent white;
+	}
+}

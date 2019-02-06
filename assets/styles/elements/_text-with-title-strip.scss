@@ -1,0 +1,39 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the text with title strip components.
+// -----------------------------------------------------------------------------
+
+
+.text-with-title-strip{
+	@extend .clearfix;
+	p,a{
+		color: inherit;
+		display: inline-block;
+	}
+	width: 100%;
+	overflow: hidden;
+
+	.slice-inner{
+		width: 100%;
+	}
+
+	.side{
+		@extend .clearfix;
+		display: inline-block;
+	    width: 50%;
+	    height: auto;
+	    text-align: left;
+	    vertical-align: middle;
+		padding: ($visual-rhythm * 8) ($visual-rhythm * 2);
+
+		&.left{
+			// float: left;
+			padding-right: $visual-rhythm;
+		}
+		&.right{
+			// float: right;
+			padding-left: $visual-rhythm;
+		}
+
+	}
+
+}

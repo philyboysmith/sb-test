@@ -1,0 +1,38 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the link boxs
+// -----------------------------------------------------------------------------
+
+.link-box{
+	padding: 0 ($visual-rhythm * 1) 6rem ($visual-rhythm * 1);
+	@include media(">phone") {
+		padding: 0 ($visual-rhythm * 2) 6rem ($visual-rhythm * 2);
+	}
+	a{
+		display: block;
+		width: 100%;
+		text-align: left;
+		position: relative;
+		padding: 15px 30px;
+		margin-top: $visual-rhythm;
+		max-width: 560px;
+		
+		&:first-of-type {
+			margin-top:0;
+		}
+
+		@include media(">tablet") {
+			max-width: 800px;
+		}
+
+		svg{
+			position: absolute;
+			right: 20px;
+			top:50%;
+			width: 20px;
+			fill: $highlight;
+			margin-top: -10px;
+		}
+
+	}
+
+}

@@ -1,0 +1,42 @@
+// -----------------------------------------------------------------------------
+// This file contains styles to make a collection box
+// However the collections block is a modified tile layout using the tile slice
+// styles as a base.
+// -----------------------------------------------------------------------------
+
+
+.collection-title{
+	@extend .skew-opposite;
+	padding: $visual-rhythm;
+	color: $dark_highlight;
+	float: left;
+	height: auto;
+	position: absolute;
+	top:($visual-rhythm * 2) ;
+	left: ($visual-rhythm * 2) * -1;
+	background: $highlight-two;
+	z-index: 3;
+	text-align: left;
+
+	.title-inner{
+		margin-left: ($visual-rhythm / 2) + ($visual-rhythm * 2);
+		line-height: 120%;
+		vertical-align: middle;
+		display: inline-block;
+		font-size: 16px;
+	}
+
+	.credit{
+		display: block;
+	}
+	.title{
+		display: block;
+		text-transform: uppercase;
+		font-size: 20px;
+		font-family: $Black-Italic;
+	}
+
+	&.white{
+		color: $white;
+	}
+}

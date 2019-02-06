@@ -1,0 +1,43 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the input components.
+// -----------------------------------------------------------------------------
+
+%base-input-styles{
+	width: 100%;
+	padding: 10px;
+	border: 1px solid black;
+	margin-bottom: $visual-rhythm;
+	border-radius: 0;
+	-webkit-appearance: none;
+}
+
+input[type='text'], input[type='url'], input[type='submit'], input[type='password'], input[type='email']{
+	@extend %base-input-styles;
+	background: white;
+
+	&.disabled{
+	}
+
+	&[type="submit"]{
+		padding: 20px;
+
+		&:hover{
+			background: black;
+			color: white;
+		}
+	}
+}
+
+input[type='checkbox']{
+	margin: 0 10px 20px 0;
+}
+
+select{
+	@extend %base-input-styles;
+	background: url(/assets/images/drop-down-arrow.png) no-repeat right #fff;
+}
+
+textarea{
+	@extend %base-input-styles;
+	min-height: 100px;
+}

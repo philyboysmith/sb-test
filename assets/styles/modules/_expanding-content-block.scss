@@ -1,0 +1,91 @@
+.expanding-content-block{
+	padding: 0  $visual-rhythm $visual-rhythm $visual-rhythm;
+	@include media(">phone") {
+		padding: 0  $visual-rhythm $visual-rhythm $visual-rhythm;
+	}
+
+	&.extra-space{
+		padding: ($visual-rhythm * 2) $visual-rhythm;
+		@include media(">phone") {
+			padding: ($visual-rhythm * 3) $visual-rhythm;
+		}
+	}
+
+	.block-group{
+		margin-top: 0;
+		margin-bottom: ($visual-rhythm * 2);
+	}
+
+	.expanding-block{
+		background: $highlight_rollover;
+		color: $white;
+		width: 100%;
+		display: block;
+		margin-bottom: 4px;
+		max-width: 700px;
+		margin-left: auto;
+		margin-right: auto;
+		padding: $visual-rhythm;
+
+		a{
+			border-bottom: 1px solid;
+		    display: inline-block;
+		    line-height: 100%;
+		}
+
+		.title{
+			cursor: pointer;
+			color: $white;
+			text-align: left;
+			position: relative;
+			&:before{
+				@include transition(all $fast);
+				position: absolute;
+				right: 5px;
+				top: 5px;
+				content: '+';
+				color: #fff;
+				font-size: 35px;
+			}
+
+			p{
+				margin-bottom: 0;
+				padding-bottom: 0px;
+			}
+		}
+
+		.description{
+			@include transition(max-height $mid, padding $mid);
+			color: $white;
+			max-height: 0px;
+			overflow: hidden;
+		}
+
+		&.open{
+			.title{
+				&:before{
+					@include transform(rotate(45deg));
+				}
+				svg{
+					display: none;
+				}
+			}
+			.description{
+				padding-top: $visual-rhythm;
+				max-height: 2000px;
+			}
+		}
+	}
+
+	.summary{
+		color: $white;
+		padding-bottom: $visual-rhythm;
+		text-align: center;
+		max-width: 560px;
+	}
+
+	.button{
+		background: $white;
+		color: $highlight;
+	}
+}

@@ -1,0 +1,38 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to form overlays.
+// -----------------------------------------------------------------------------
+
+.overlay{
+	@include transition(opacity $fast);
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.7);
+	opacity: 0;
+	display: none;
+	z-index: 10;
+	&.visable{
+		display: block;
+	}
+
+	.close-overlay{
+		@extend %bold-italic;
+		@include transform(rotate(-90deg));
+		@include transform-origin(0% 0%);
+		@include rem(font-size, 20px);
+		position: fixed;
+	    left: 10px;
+	    top: 77px;
+		z-index: 3;
+		color: white;
+		cursor: pointer;
+	    @include media(">phone") {
+			@include rem(font-size, 36px);
+	    	left: 16px;
+	   		position: absolute;
+		    top: 135px;
+	    }
+	}
+}

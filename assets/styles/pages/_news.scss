@@ -1,0 +1,44 @@
+
+.news{
+
+	.content{
+	    margin-top: 70px;
+	}
+
+	.split-block{
+		.main-content{
+			margin-top: $visual-rhythm * 3;
+			margin-bottom: $visual-rhythm + 6rem;
+			@include media(">tablet") {
+				margin-top: $visual-rhythm;
+			}
+		}
+	}
+
+	.slice{
+		margin: 0 auto;
+		float: none;
+		max-width: 900px;
+	}
+
+	.large-text{
+		@include media(">tablet") {
+			padding-bottom: ($visual-rhythm * 3);
+		}
+	}
+
+	.feature-block{
+		height: 70vh;
+		@include media(">phone") {
+			height: 85vh;
+		}
+	}
+
+	p{
+		max-width: 600px;
+		@include media(">tablet") {
+			max-width: 800px;
+		}
+	}
+
+}

@@ -1,0 +1,327 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles dealing with the main typography styles
+// -----------------------------------------------------------------------------
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+// @import url("//hello.myfonts.net/count/31af2f");
+
+@font-face {font-family: 'Eurostile';font-weight: normal;font-style: normal;src: url('/assets/fonts/31AF2F_0_0.eot');src: url('/assets/fonts/31AF2F_0_0.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/31AF2F_0_0.woff2') format('woff2'),url('/assets/fonts/31AF2F_0_0.woff') format('woff'),url('/assets/fonts/31AF2F_0_0.ttf') format('truetype');}
+
+@font-face {font-family: 'Eurostile';font-weight: normal;font-style: italic;src: url('/assets/fonts/31AF2F_1_0.eot');src: url('/assets/fonts/31AF2F_1_0.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/31AF2F_1_0.woff2') format('woff2'),url('/assets/fonts/31AF2F_1_0.woff') format('woff'),url('/assets/fonts/31AF2F_1_0.ttf') format('truetype');}
+
+
+
+@font-face {
+    font-family: 'Calibre Regular';
+    src: url(/assets/fonts/CalibreWeb-Regular.eot);
+    src: url(/assets/fonts/CalibreWeb-Regular.eot?#iefix) format("embedded-opentype"),
+      url(/assets/fonts/CalibreWeb-Regular.woff2) format("woff2"),
+      url(/assets/fonts/CalibreWeb-Regular.woff) format("woff")
+}
+
+@font-face {
+    font-family: 'Calibre Semibold';
+    src: url(/assets/fonts/CalibreWeb-Semibold.eot);
+    src: url(/assets/fonts/CalibreWeb-Semibold.eot?#iefix) format("embedded-opentype"),
+      url(/assets/fonts/CalibreWeb-Semibold.woff2) format("woff2"),
+      url(/assets/fonts/CalibreWeb-Semibold.woff) format("woff")
+}
+
+$Black: "Eurostile", "eurostile", sans-serif;
+$Black-Italic: "Eurostile", "eurostile", sans-serif;
+
+//--------------------
+// Base Font Stacks
+//--------------------
+
+/// Regular
+$sans-serif: 'Calibre Regular', 'Helvetica', 'Arial', sans-serif;
+$semi-bold: 'Calibre Semibold', 'Helvetica', 'Arial', sans-serif;
+
+//--------------------
+// Base Type styles
+//--------------------
+
+%type-style-sans-serif-copy-regular{
+	@include rem(font-size, 16px);
+	@include rem(line-height, 24px);
+	@include rem(letter-spacing, 0px);
+	font-weight: normal;
+	font-family: $sans-serif;
+}
+
+%type-style-sans-serif-title-slanted{
+	@include rem(font-size, 36px);
+	@include rem(line-height, 46px);
+	@include rem(letter-spacing, 0px);
+	font-weight: normal;
+	font-family: $sans-serif;
+}
+
+%semi-bold{
+	font-family: $semi-bold;
+	font-style: normal;
+}
+
+%bold{
+	font-family: $Black;
+	font-style: normal;
+	text-transform: uppercase;
+}
+
+%bold-italic{
+	font-family: $Black-Italic;
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+	@include rem(font-size, 1.2rem);
+	@extend %type-style-sans-serif-copy-regular;
+	-webkit-font-smoothing: antialiased;
+	color: $text;
+}
+
+h1{
+	@extend %typographic-rhythem;
+	@extend %bold-italic;
+	@include rem(font-size, 30px);
+	@include rem(line-height, 30px); 
+
+	@include media(">phone") {
+		@include rem(font-size, 60px);
+		@include rem(line-height, 60px);
+	}
+
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 0px;
+    padding: 0 $visual-rhythm;
+}
+
+h2{
+	@extend %typographic-rhythem;
+	@extend %bold-italic;
+	@include rem(font-size, 30px);
+	@include rem(line-height, 30px);
+	font-weight: normal;
+
+	@include media(">phone") {
+		@include rem(font-size, 40px);
+		@include rem(line-height, 40px);
+	}
+	
+	@media only screen and (max-width: 1420px)  {
+		@include rem(font-size, 30px);
+		@include rem(line-height, 30px);
+	}
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0 $visual-rhythm;
+}
+
+h3{
+	@extend %typographic-rhythem;
+	@extend %bold-italic;
+	@include rem(font-size, 26px);
+	@include rem(line-height, 28px);
+
+	@include media(">phone") {
+		@include rem(font-size, 30px);
+		@include rem(line-height, 30px);
+	}
+
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0 $visual-rhythm;
+}
+
+h4{
+	@extend %typographic-rhythem;
+	@extend %bold-italic;
+	@include rem(font-size, 22px);
+	@include rem(line-height, 24px);
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h5{
+	@extend %typographic-rhythem;
+	@extend %bold-italic;
+	@include rem(font-size, 18px);
+	@include rem(line-height, 20px);
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h6{
+	@extend %typographic-rhythem;
+	@extend %type-style-sans-serif-copy-regular;
+	@include rem(font-size, 16px);
+	@include rem(line-height, 20px);
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p{
+	@extend %typographic-rhythem;
+	@include rem(font-size, 20px);
+	@include rem(line-height, 26px);
+
+	@include media(">phone") {
+		@include rem(font-size, 20px);
+		@include rem(line-height, 26px);
+	}
+
+	@include media(">tablet") {
+		@include rem(font-size, 24px);
+		@include rem(line-height, 30px);
+	}
+	
+	@media only screen and (max-width: 1420px)  {
+		@include rem(font-size, 20px);
+		@include rem(line-height, 26px);
+	}
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+	b, &.bold{
+		@include rem(font-size, 30px);
+		@include rem(line-height, 34px);
+		// font-weight: bold;
+	}
+
+	&.large{
+		@include rem(font-size, 24px);
+		@include rem(line-height, 30px);
+
+		@include media(">phone") {
+			@include rem(font-size, 30px);
+			@include rem(line-height, 34px);
+		}
+	}
+	font-weight: normal;
+}
+
+ul{
+	li{
+		@extend %list-rhythem;
+		@include rem(font-size, 18px);
+		@include rem(line-height, 24px);
+		text-align: left;
+	}
+}
+
+.large-text{
+
+	p{
+
+		@include rem(font-size, 24px);
+		@include rem(line-height, 30px);
+
+		@include media(">phone") {
+			@include rem(font-size, 30px);
+			@include rem(line-height, 36px);
+		}
+	}
+
+}
+
+.expanding-block .description{
+
+	p{
+
+		@include rem(font-size, 16px);
+		@include rem(line-height, 20px);
+
+		@include media(">phone") {
+			@include rem(font-size, 20px);
+			@include rem(line-height, 24px);
+		}
+	}
+
+}
+
+.expanding-block .title{
+
+	p{
+
+		@include rem(font-size, 20px);
+		@include rem(line-height, 24px);
+		@include media(">tablet") {
+			@include rem(font-size, 24px);
+			@include rem(line-height, 30px);
+		}
+
+	}
+
+}
+
+.paragraph-block_page{
+
+	p{
+
+		@include rem(font-size, 24px);
+		@include rem(line-height, 30px);
+		@include media(">tablet") {
+			@include rem(font-size, 30px);
+			@include rem(line-height, 34px);
+		}
+
+	}
+
+}
+
+.tile{
+	h4, p{
+		color: $white;
+	}
+}
+
+
+footer{
+	p,a{
+		@include rem(font-size, 16px);
+		@include rem(line-height, 20px);
+	}
+
+	.credit, .footer-text{
+		p,a{
+			@include rem(font-size, 16px);
+			@include rem(line-height, 20px);
+		}
+	}
+}
+
+
+.section-title{
+	color: $highlight;
+	text-transform: uppercase;
+	@extend %bold;
+	margin-top: ($visual-rhythm * 2);
+	margin-bottom: ($visual-rhythm * 2);
+}
+
+//-------------------------
+// Link Type reset styles
+//-------------------------
+
+a{
+	@include  transition(all $fast);
+	text-decoration: none;
+	border-bottom: 1px solid rgba(0,0,0,0);
+	&:hover{
+		text-decoration: none;
+	}
+}

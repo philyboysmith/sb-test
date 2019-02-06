@@ -1,0 +1,95 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the basic page layout
+// -----------------------------------------------------------------------------
+
+.page{
+	
+}
+.split-block{
+	@extend .clearfix;
+	width: 100%;
+	position: relative;
+	float: left;
+	margin: 0 auto;
+	@include media(">tablet") {
+		padding-right: 350px;
+	}
+	.main-content{
+		@extend .clearfix;
+	}
+	.news-feed{
+		@extend .clearfix;
+		top:0;
+		background: $highlight;
+		width: 100%;
+		height: 100%;
+		right: 0px;
+		@include media(">tablet") {
+			width: 350px;
+			position: absolute;
+			overflow: hidden;
+		}
+		.tile{
+			padding: 0px;
+			margin-bottom: 0px;
+			border: none;
+			width: 100%;
+			@include media(">phone") {
+				width: 50%;
+			}
+			@include media(">tablet") {
+				width: 100%;
+			}
+			a{
+				border: 0px !important;
+			}
+		}
+
+		.news-item{
+			@extend .clearfix;
+			@include rem(font-size, 18px);
+			@include rem(line-height, 24px);
+			width: 100%;
+			border-bottom: 1px solid $dark_20_highlight;
+			padding: $visual-rhythm;
+			display: block;
+			float: left;
+
+			&:hover{
+				background: $highlight_rollover;
+			}
+			h4,h5{
+				margin-top: 0;
+				margin-bottom: 0px;
+				padding: 0px;
+			}
+			.title{
+				width: 60%;
+				float:left;
+				color: $white;
+				text-align: left;
+				line-height: 100%;
+				img{
+					display: block;
+				}
+			}
+			.date{
+				width: 40%;
+				float: left;
+				text-align: right;
+				line-height: 100%;
+				color: $dark_80_highlight;
+				// padding-right: $visual-rhythm;
+
+				&.white{
+					color: $white;
+				}
+			}
+		}
+	}
+
+}
+
+.line-up, .news-list, .thankYou, .homepage {
+	padding-top: 69px;
+}

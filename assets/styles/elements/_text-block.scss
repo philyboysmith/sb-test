@@ -1,0 +1,170 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the text block components.
+// -----------------------------------------------------------------------------
+
+.text-block{
+	@extend .clearfix;
+	@extend %text-block-rhythem;
+
+
+	h5{
+		text-align: left;
+	}
+	p{
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: $visual-rhythm;
+		padding-right: $visual-rhythm;
+
+	}
+}
+
+.split-text-block{
+	display: table;
+	.left{
+		vertical-align: middle;
+		width: 100%;
+		text-align: center;
+		img{
+			width: 100%;
+			max-width: 300px;
+			min-width: 200px;
+			margin: 0;
+			padding: 0;
+			height: auto;
+		}
+		a{
+			border-bottom: 0px;
+		}
+		@include media(">tablet") {
+			display: table-cell;
+			width: 33.333%;
+			padding-left: $visual-rhythm * 2;
+			padding-right: $visual-rhythm;
+			img{
+				padding:0;
+				max-width: 100%;
+				min-width: auto;
+			}
+		}
+	}
+	.right{
+		float: left;
+		width: 100%;
+		text-align: left;
+		a{
+			border-bottom: 0px;
+			text-decoration: none;
+			h5{
+				color: $text;
+			}
+		}
+		p a{
+			border-bottom: 1px solid;
+		}
+		@include media(">tablet") {
+			width: 100%;
+			h5,p{
+				padding-left: $visual-rhythm;
+			}
+		}
+	}
+}
+
+.body-text{
+	@extend .clearfix;
+	padding-bottom: $visual-rhythm;
+
+	p{
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: $visual-rhythm;
+		padding-right: $visual-rhythm;
+		@include media(">phone") {
+			padding-bottom: $visual-rhythm * 2;
+		}
+
+	}
+	a, a:visited{
+		color: $highlight;
+	    border-bottom: 1px solid;
+	    display: inline-block;
+	    line-height: 100%;
+	}
+
+}
+
+.paragraph-block{
+	@extend .clearfix;
+	@extend %text-block-rhythem;
+
+	p{
+		padding-left: $visual-rhythm;
+		padding-right: $visual-rhythm;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.text-block_page, .large-text{
+	@extend .text-block;
+	text-align: center;
+	margin: 0 0 6rem 0;
+	padding: 2rem 0;
+
+	h2{
+		text-align: inherit;
+		&.left{
+			text-align: left;
+		}
+	}
+	p{
+		text-align: inherit;
+		max-width: 800px;
+		&.left{
+			text-align: left;
+		}
+	}
+	
+	&.light{
+		// color: $white;
+		// a{
+		// 	color: $text;
+		// }
+		// h2,p{
+		// 	color: $white;
+		// }
+		.call-to-action {
+			margin-top: 1rem;
+		}
+	}
+	&.dark {
+		padding: 3rem 0;
+		padding: 0;
+		h2 {
+			padding-top: 6rem;
+		}
+		p {
+			padding-bottom: 6rem;
+		}
+	}
+
+
+}
+
+.split-block{
+	.large-text{
+		h2, p{
+			max-width: auto;
+		}
+	}
+}
+
+.paragraph-block_page{
+	@extend .paragraph-block;
+	text-align: center;
+	p{
+		text-align: inherit;
+		max-width: 675px;
+	}
+}

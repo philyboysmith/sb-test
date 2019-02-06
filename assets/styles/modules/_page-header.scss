@@ -1,0 +1,157 @@
+.page-header{
+	height: 60vh;
+	margin-top: 70px;
+	overflow: hidden;
+	position: relative;
+
+	.media-wrap{
+		width: 100%;
+		height: 100%;
+		position: relative;
+		overflow: hidden;
+	}
+	.bottom-crop{
+		position: absolute;
+		bottom: 0;
+		right: -10px;
+		left: -10px;
+		height: 12vh;
+		background: $white;
+		-webkit-transform-origin: 0% 50%;
+		-ms-transform-origin: 0% 50%;
+		transform-origin: 0% 50%;
+		z-index: 5;
+		-webkit-transform: skewY(3deg);
+		-ms-transform: skewY(3deg);
+		transform: skewY(3deg);
+	}
+	.dimmer-switch{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: #000000;
+		opacity: 0.3;
+		z-index: 3;
+	}
+	.text-wrap{
+		position: absolute;
+		z-index: 4;
+		top:0;
+		left: 0;
+		width: 100%;
+		height: 50vh;
+		text-align: center;
+		color: $white;
+
+		h1{
+			@extend %block-rhythem;
+			text-align: inherit;
+			color: inherit;
+			/* These are technically the same, but use both */
+			overflow-wrap: break-word;
+			word-wrap: break-word;
+
+			-ms-word-break: break-all;
+			/* This is the dangerous one in WebKit, as it breaks things wherever */
+			word-break: break-all;
+			/* Instead use this non-standard one: */
+			word-break: break-word;
+
+			/* Adds a hyphen where the word breaks, if supported (No Blink) */
+			-ms-hyphens: auto;
+			-moz-hyphens: auto;
+			-webkit-hyphens: auto;
+			hyphens: auto;
+		}
+
+		p{
+			color: inherit;
+			text-align: inherit;
+			max-width: 550px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+
+	.cover {
+		width: 100%;
+		height: 100%;
+		position: relative;
+		overflow: hidden;
+		&.parallax {
+			video {
+				position: fixed;
+				height: 100%;
+				z-index: -1;
+				margin-top: -70px;
+			}
+		}
+		img {
+			position: absolute;
+  			top: 0;
+			left: 0;
+			width: 100%;
+			height: auto;
+
+		}
+		img, video{
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			margin: auto;
+			min-width: 50%;
+			min-height: 50%;
+		    height: auto;
+			overflow-x: hidden;
+			z-index: 1;
+
+			&.cover-image{
+				z-index: 2;
+				position: absolute !important;
+			}
+
+		}
+
+	}
+}
+
+.panel{
+	.page-header{
+		height: 40vh;
+		padding-top: 0px;
+		margin-top: 0px;
+		@include media(">tablet") {
+			height: 50vh;
+		}
+		@include media(">desktop") {
+			height: 60vh;
+		}
+	}
+}
+
+.objectfit{
+	.cover{
+		width: 100%;
+		height: 100%;
+		position: relative;
+		overflow: hidden;
+		&.parallax {
+			img {
+				height: 100%;
+				width: 100%;
+				position: fixed;
+			}
+		}
+		img, video{
+			width: 100%;
+			height: 100%;
+			position: relative;
+			overflow: hidden;
+			object-fit: cover;
+		}
+	}
+}

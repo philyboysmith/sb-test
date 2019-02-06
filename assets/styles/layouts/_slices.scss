@@ -1,0 +1,41 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the basic slices layout
+// -----------------------------------------------------------------------------
+
+.slice{
+	@extend .clearfix;
+	position: relative;
+	float: left;
+	width: 100%;
+	clear: both;
+	background-color: $white;
+	.slice-inner{
+		@extend .clearfix;
+		background-size: cover !important;
+		background-position: center !important;
+	}
+
+	&.small-margin{
+		margin: ($visual-rhythm * 2) 0 !important;
+	}
+
+	&.large-margin{
+		margin: ($visual-rhythm * 4) 0 !important;
+	}
+
+	&.first{
+		padding-top: 0 !important;
+		&.large-text{
+			padding-bottom: $visual-rhythm * 2 !important;
+		}
+	}
+}
+
+.panel{
+	.slice{
+		max-width: 800px;
+		margin:0 auto;
+		float: none;
+	}
+}
+  

@@ -1,0 +1,3756 @@
+{"frames": [
+
+{
+	"filename": "large-flag000.png",
+	"frame": {"x":0,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag001.png",
+	"frame": {"x":475,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag002.png",
+	"frame": {"x":950,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag003.png",
+	"frame": {"x":1425,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag004.png",
+	"frame": {"x":1900,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag005.png",
+	"frame": {"x":2375,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag006.png",
+	"frame": {"x":2850,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag007.png",
+	"frame": {"x":3325,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag008.png",
+	"frame": {"x":3800,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag009.png",
+	"frame": {"x":4275,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag010.png",
+	"frame": {"x":4750,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag011.png",
+	"frame": {"x":5225,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag012.png",
+	"frame": {"x":5700,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag013.png",
+	"frame": {"x":6175,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag014.png",
+	"frame": {"x":6650,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag015.png",
+	"frame": {"x":7125,"y":0,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag032.png",
+	"frame": {"x":0,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag033.png",
+	"frame": {"x":475,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag034.png",
+	"frame": {"x":950,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag035.png",
+	"frame": {"x":1425,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag036.png",
+	"frame": {"x":1900,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag037.png",
+	"frame": {"x":2375,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag038.png",
+	"frame": {"x":2850,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag039.png",
+	"frame": {"x":3325,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag040.png",
+	"frame": {"x":3800,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag041.png",
+	"frame": {"x":4275,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag042.png",
+	"frame": {"x":4750,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag043.png",
+	"frame": {"x":5225,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag044.png",
+	"frame": {"x":5700,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag045.png",
+	"frame": {"x":6175,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag046.png",
+	"frame": {"x":6650,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag047.png",
+	"frame": {"x":7125,"y":267,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag064.png",
+	"frame": {"x":0,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag065.png",
+	"frame": {"x":475,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag066.png",
+	"frame": {"x":950,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag067.png",
+	"frame": {"x":1425,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag068.png",
+	"frame": {"x":1900,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag069.png",
+	"frame": {"x":2375,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag070.png",
+	"frame": {"x":2850,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag071.png",
+	"frame": {"x":3325,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag072.png",
+	"frame": {"x":3800,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag073.png",
+	"frame": {"x":4275,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag074.png",
+	"frame": {"x":4750,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag075.png",
+	"frame": {"x":5225,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag076.png",
+	"frame": {"x":5700,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag077.png",
+	"frame": {"x":6175,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag078.png",
+	"frame": {"x":6650,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag079.png",
+	"frame": {"x":7125,"y":534,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag096.png",
+	"frame": {"x":0,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag097.png",
+	"frame": {"x":475,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag098.png",
+	"frame": {"x":950,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag099.png",
+	"frame": {"x":1425,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag100.png",
+	"frame": {"x":1900,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag101.png",
+	"frame": {"x":2375,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag102.png",
+	"frame": {"x":2850,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag103.png",
+	"frame": {"x":3325,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag104.png",
+	"frame": {"x":3800,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag105.png",
+	"frame": {"x":4275,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag106.png",
+	"frame": {"x":4750,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag107.png",
+	"frame": {"x":5225,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag108.png",
+	"frame": {"x":5700,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag109.png",
+	"frame": {"x":6175,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag110.png",
+	"frame": {"x":6650,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag111.png",
+	"frame": {"x":7125,"y":801,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag128.png",
+	"frame": {"x":0,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag129.png",
+	"frame": {"x":475,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag130.png",
+	"frame": {"x":950,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag131.png",
+	"frame": {"x":1425,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag132.png",
+	"frame": {"x":1900,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag133.png",
+	"frame": {"x":2375,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag134.png",
+	"frame": {"x":2850,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag135.png",
+	"frame": {"x":3325,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag136.png",
+	"frame": {"x":3800,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag137.png",
+	"frame": {"x":4275,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag138.png",
+	"frame": {"x":4750,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag139.png",
+	"frame": {"x":5225,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag140.png",
+	"frame": {"x":5700,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag141.png",
+	"frame": {"x":6175,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag142.png",
+	"frame": {"x":6650,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag143.png",
+	"frame": {"x":7125,"y":1068,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag160.png",
+	"frame": {"x":0,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag161.png",
+	"frame": {"x":475,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag162.png",
+	"frame": {"x":950,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag163.png",
+	"frame": {"x":1425,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag164.png",
+	"frame": {"x":1900,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag165.png",
+	"frame": {"x":2375,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag166.png",
+	"frame": {"x":2850,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag167.png",
+	"frame": {"x":3325,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag168.png",
+	"frame": {"x":3800,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag169.png",
+	"frame": {"x":4275,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag170.png",
+	"frame": {"x":4750,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag171.png",
+	"frame": {"x":5225,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag172.png",
+	"frame": {"x":5700,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag173.png",
+	"frame": {"x":6175,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag174.png",
+	"frame": {"x":6650,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag175.png",
+	"frame": {"x":7125,"y":1335,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag192.png",
+	"frame": {"x":0,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag193.png",
+	"frame": {"x":475,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag194.png",
+	"frame": {"x":950,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag195.png",
+	"frame": {"x":1425,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag196.png",
+	"frame": {"x":1900,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag197.png",
+	"frame": {"x":2375,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag198.png",
+	"frame": {"x":2850,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag199.png",
+	"frame": {"x":3325,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag200.png",
+	"frame": {"x":3800,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag201.png",
+	"frame": {"x":4275,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag202.png",
+	"frame": {"x":4750,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag203.png",
+	"frame": {"x":5225,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag204.png",
+	"frame": {"x":5700,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag205.png",
+	"frame": {"x":6175,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag206.png",
+	"frame": {"x":6650,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag207.png",
+	"frame": {"x":7125,"y":1602,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag224.png",
+	"frame": {"x":0,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag225.png",
+	"frame": {"x":475,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag226.png",
+	"frame": {"x":950,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag227.png",
+	"frame": {"x":1425,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag228.png",
+	"frame": {"x":1900,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag229.png",
+	"frame": {"x":2375,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag230.png",
+	"frame": {"x":2850,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag231.png",
+	"frame": {"x":3325,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag232.png",
+	"frame": {"x":3800,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag233.png",
+	"frame": {"x":4275,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag234.png",
+	"frame": {"x":4750,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag235.png",
+	"frame": {"x":5225,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag236.png",
+	"frame": {"x":5700,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag237.png",
+	"frame": {"x":6175,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag238.png",
+	"frame": {"x":6650,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag239.png",
+	"frame": {"x":7125,"y":1869,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag256.png",
+	"frame": {"x":0,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag257.png",
+	"frame": {"x":475,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag258.png",
+	"frame": {"x":950,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag259.png",
+	"frame": {"x":1425,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag260.png",
+	"frame": {"x":1900,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag261.png",
+	"frame": {"x":2375,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag262.png",
+	"frame": {"x":2850,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag263.png",
+	"frame": {"x":3325,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag264.png",
+	"frame": {"x":3800,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag265.png",
+	"frame": {"x":4275,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag266.png",
+	"frame": {"x":4750,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag267.png",
+	"frame": {"x":5225,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag268.png",
+	"frame": {"x":5700,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag269.png",
+	"frame": {"x":6175,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag270.png",
+	"frame": {"x":6650,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag271.png",
+	"frame": {"x":7125,"y":2136,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag288.png",
+	"frame": {"x":0,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag289.png",
+	"frame": {"x":475,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag290.png",
+	"frame": {"x":950,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag291.png",
+	"frame": {"x":1425,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag292.png",
+	"frame": {"x":1900,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag293.png",
+	"frame": {"x":2375,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag294.png",
+	"frame": {"x":2850,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag295.png",
+	"frame": {"x":3325,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag296.png",
+	"frame": {"x":3800,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag297.png",
+	"frame": {"x":4275,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag298.png",
+	"frame": {"x":4750,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag299.png",
+	"frame": {"x":5225,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag300.png",
+	"frame": {"x":5700,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag301.png",
+	"frame": {"x":6175,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag302.png",
+	"frame": {"x":6650,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag303.png",
+	"frame": {"x":7125,"y":2403,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag320.png",
+	"frame": {"x":0,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag321.png",
+	"frame": {"x":475,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag322.png",
+	"frame": {"x":950,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag323.png",
+	"frame": {"x":1425,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag324.png",
+	"frame": {"x":1900,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag325.png",
+	"frame": {"x":2375,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag326.png",
+	"frame": {"x":2850,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag327.png",
+	"frame": {"x":3325,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag328.png",
+	"frame": {"x":3800,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag329.png",
+	"frame": {"x":4275,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag330.png",
+	"frame": {"x":4750,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag331.png",
+	"frame": {"x":5225,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag332.png",
+	"frame": {"x":5700,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag333.png",
+	"frame": {"x":6175,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag334.png",
+	"frame": {"x":6650,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag335.png",
+	"frame": {"x":7125,"y":2670,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag352.png",
+	"frame": {"x":0,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag353.png",
+	"frame": {"x":475,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag354.png",
+	"frame": {"x":950,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag355.png",
+	"frame": {"x":1425,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag356.png",
+	"frame": {"x":1900,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag357.png",
+	"frame": {"x":2375,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag358.png",
+	"frame": {"x":2850,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag359.png",
+	"frame": {"x":3325,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag360.png",
+	"frame": {"x":3800,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag361.png",
+	"frame": {"x":4275,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag362.png",
+	"frame": {"x":4750,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag363.png",
+	"frame": {"x":5225,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag364.png",
+	"frame": {"x":5700,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag365.png",
+	"frame": {"x":6175,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag366.png",
+	"frame": {"x":6650,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag367.png",
+	"frame": {"x":7125,"y":2937,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag384.png",
+	"frame": {"x":0,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag385.png",
+	"frame": {"x":475,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag386.png",
+	"frame": {"x":950,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag387.png",
+	"frame": {"x":1425,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag388.png",
+	"frame": {"x":1900,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag389.png",
+	"frame": {"x":2375,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag390.png",
+	"frame": {"x":2850,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag391.png",
+	"frame": {"x":3325,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag392.png",
+	"frame": {"x":3800,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag393.png",
+	"frame": {"x":4275,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag394.png",
+	"frame": {"x":4750,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag395.png",
+	"frame": {"x":5225,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag396.png",
+	"frame": {"x":5700,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag397.png",
+	"frame": {"x":6175,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag398.png",
+	"frame": {"x":6650,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag399.png",
+	"frame": {"x":7125,"y":3204,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag416.png",
+	"frame": {"x":0,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag417.png",
+	"frame": {"x":475,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag418.png",
+	"frame": {"x":950,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag419.png",
+	"frame": {"x":1425,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag420.png",
+	"frame": {"x":1900,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag421.png",
+	"frame": {"x":2375,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag422.png",
+	"frame": {"x":2850,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag423.png",
+	"frame": {"x":3325,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag424.png",
+	"frame": {"x":3800,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag425.png",
+	"frame": {"x":4275,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag426.png",
+	"frame": {"x":4750,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag427.png",
+	"frame": {"x":5225,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag428.png",
+	"frame": {"x":5700,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag429.png",
+	"frame": {"x":6175,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag430.png",
+	"frame": {"x":6650,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag431.png",
+	"frame": {"x":7125,"y":3471,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag448.png",
+	"frame": {"x":0,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag449.png",
+	"frame": {"x":475,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag450.png",
+	"frame": {"x":950,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag451.png",
+	"frame": {"x":1425,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag452.png",
+	"frame": {"x":1900,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag453.png",
+	"frame": {"x":2375,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag454.png",
+	"frame": {"x":2850,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag455.png",
+	"frame": {"x":3325,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag456.png",
+	"frame": {"x":3800,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag457.png",
+	"frame": {"x":4275,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag458.png",
+	"frame": {"x":4750,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag459.png",
+	"frame": {"x":5225,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag460.png",
+	"frame": {"x":5700,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag461.png",
+	"frame": {"x":6175,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag462.png",
+	"frame": {"x":6650,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag463.png",
+	"frame": {"x":7125,"y":3738,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag480.png",
+	"frame": {"x":0,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag481.png",
+	"frame": {"x":475,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag482.png",
+	"frame": {"x":950,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag483.png",
+	"frame": {"x":1425,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag484.png",
+	"frame": {"x":1900,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag485.png",
+	"frame": {"x":2375,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag486.png",
+	"frame": {"x":2850,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag487.png",
+	"frame": {"x":3325,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag488.png",
+	"frame": {"x":3800,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag489.png",
+	"frame": {"x":4275,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag490.png",
+	"frame": {"x":4750,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag491.png",
+	"frame": {"x":5225,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag492.png",
+	"frame": {"x":5700,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag493.png",
+	"frame": {"x":6175,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag494.png",
+	"frame": {"x":6650,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag495.png",
+	"frame": {"x":7125,"y":4005,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag512.png",
+	"frame": {"x":0,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag513.png",
+	"frame": {"x":475,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag514.png",
+	"frame": {"x":950,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag515.png",
+	"frame": {"x":1425,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag516.png",
+	"frame": {"x":1900,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag517.png",
+	"frame": {"x":2375,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag518.png",
+	"frame": {"x":2850,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag519.png",
+	"frame": {"x":3325,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag520.png",
+	"frame": {"x":3800,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag521.png",
+	"frame": {"x":4275,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag522.png",
+	"frame": {"x":4750,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag523.png",
+	"frame": {"x":5225,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag524.png",
+	"frame": {"x":5700,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag525.png",
+	"frame": {"x":6175,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag526.png",
+	"frame": {"x":6650,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag527.png",
+	"frame": {"x":7125,"y":4272,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag544.png",
+	"frame": {"x":0,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag545.png",
+	"frame": {"x":475,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag546.png",
+	"frame": {"x":950,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag547.png",
+	"frame": {"x":1425,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag548.png",
+	"frame": {"x":1900,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag549.png",
+	"frame": {"x":2375,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag550.png",
+	"frame": {"x":2850,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag551.png",
+	"frame": {"x":3325,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag552.png",
+	"frame": {"x":3800,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag553.png",
+	"frame": {"x":4275,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag554.png",
+	"frame": {"x":4750,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag555.png",
+	"frame": {"x":5225,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag556.png",
+	"frame": {"x":5700,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag557.png",
+	"frame": {"x":6175,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag558.png",
+	"frame": {"x":6650,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag559.png",
+	"frame": {"x":7125,"y":4539,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag576.png",
+	"frame": {"x":0,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag577.png",
+	"frame": {"x":475,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag578.png",
+	"frame": {"x":950,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag579.png",
+	"frame": {"x":1425,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag580.png",
+	"frame": {"x":1900,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag581.png",
+	"frame": {"x":2375,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag582.png",
+	"frame": {"x":2850,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag583.png",
+	"frame": {"x":3325,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag584.png",
+	"frame": {"x":3800,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag585.png",
+	"frame": {"x":4275,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag586.png",
+	"frame": {"x":4750,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag587.png",
+	"frame": {"x":5225,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag588.png",
+	"frame": {"x":5700,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag589.png",
+	"frame": {"x":6175,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag590.png",
+	"frame": {"x":6650,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag591.png",
+	"frame": {"x":7125,"y":4806,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag608.png",
+	"frame": {"x":0,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag609.png",
+	"frame": {"x":475,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag610.png",
+	"frame": {"x":950,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag611.png",
+	"frame": {"x":1425,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag612.png",
+	"frame": {"x":1900,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag613.png",
+	"frame": {"x":2375,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag614.png",
+	"frame": {"x":2850,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag615.png",
+	"frame": {"x":3325,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag616.png",
+	"frame": {"x":3800,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag617.png",
+	"frame": {"x":4275,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag618.png",
+	"frame": {"x":4750,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag619.png",
+	"frame": {"x":5225,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag620.png",
+	"frame": {"x":5700,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag621.png",
+	"frame": {"x":6175,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag622.png",
+	"frame": {"x":6650,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag623.png",
+	"frame": {"x":7125,"y":5073,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag640.png",
+	"frame": {"x":0,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag641.png",
+	"frame": {"x":475,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag642.png",
+	"frame": {"x":950,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag643.png",
+	"frame": {"x":1425,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag644.png",
+	"frame": {"x":1900,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag645.png",
+	"frame": {"x":2375,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag646.png",
+	"frame": {"x":2850,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag647.png",
+	"frame": {"x":3325,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag648.png",
+	"frame": {"x":3800,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag649.png",
+	"frame": {"x":4275,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag650.png",
+	"frame": {"x":4750,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag651.png",
+	"frame": {"x":5225,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag652.png",
+	"frame": {"x":5700,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag653.png",
+	"frame": {"x":6175,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag654.png",
+	"frame": {"x":6650,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag655.png",
+	"frame": {"x":7125,"y":5340,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag672.png",
+	"frame": {"x":0,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag673.png",
+	"frame": {"x":475,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag674.png",
+	"frame": {"x":950,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag675.png",
+	"frame": {"x":1425,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag676.png",
+	"frame": {"x":1900,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag677.png",
+	"frame": {"x":2375,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag678.png",
+	"frame": {"x":2850,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag679.png",
+	"frame": {"x":3325,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag680.png",
+	"frame": {"x":3800,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag681.png",
+	"frame": {"x":4275,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag682.png",
+	"frame": {"x":4750,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag683.png",
+	"frame": {"x":5225,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag684.png",
+	"frame": {"x":5700,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag685.png",
+	"frame": {"x":6175,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag686.png",
+	"frame": {"x":6650,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag687.png",
+	"frame": {"x":7125,"y":5607,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag704.png",
+	"frame": {"x":0,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag705.png",
+	"frame": {"x":475,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag706.png",
+	"frame": {"x":950,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag707.png",
+	"frame": {"x":1425,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag708.png",
+	"frame": {"x":1900,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag709.png",
+	"frame": {"x":2375,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag710.png",
+	"frame": {"x":2850,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag711.png",
+	"frame": {"x":3325,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag712.png",
+	"frame": {"x":3800,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag713.png",
+	"frame": {"x":4275,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag714.png",
+	"frame": {"x":4750,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag715.png",
+	"frame": {"x":5225,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag716.png",
+	"frame": {"x":5700,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag717.png",
+	"frame": {"x":6175,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag718.png",
+	"frame": {"x":6650,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag719.png",
+	"frame": {"x":7125,"y":5874,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag736.png",
+	"frame": {"x":0,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag737.png",
+	"frame": {"x":475,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag738.png",
+	"frame": {"x":950,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag739.png",
+	"frame": {"x":1425,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag740.png",
+	"frame": {"x":1900,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag741.png",
+	"frame": {"x":2375,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag742.png",
+	"frame": {"x":2850,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag743.png",
+	"frame": {"x":3325,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag744.png",
+	"frame": {"x":3800,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag745.png",
+	"frame": {"x":4275,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag746.png",
+	"frame": {"x":4750,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag747.png",
+	"frame": {"x":5225,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag748.png",
+	"frame": {"x":5700,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag749.png",
+	"frame": {"x":6175,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag750.png",
+	"frame": {"x":6650,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag751.png",
+	"frame": {"x":7125,"y":6141,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag768.png",
+	"frame": {"x":0,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag769.png",
+	"frame": {"x":475,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag770.png",
+	"frame": {"x":950,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag771.png",
+	"frame": {"x":1425,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag772.png",
+	"frame": {"x":1900,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag773.png",
+	"frame": {"x":2375,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag774.png",
+	"frame": {"x":2850,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag775.png",
+	"frame": {"x":3325,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag776.png",
+	"frame": {"x":3800,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag777.png",
+	"frame": {"x":4275,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag778.png",
+	"frame": {"x":4750,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag779.png",
+	"frame": {"x":5225,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag780.png",
+	"frame": {"x":5700,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag781.png",
+	"frame": {"x":6175,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag782.png",
+	"frame": {"x":6650,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag783.png",
+	"frame": {"x":7125,"y":6408,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag800.png",
+	"frame": {"x":0,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag801.png",
+	"frame": {"x":475,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag802.png",
+	"frame": {"x":950,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag803.png",
+	"frame": {"x":1425,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag804.png",
+	"frame": {"x":1900,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag805.png",
+	"frame": {"x":2375,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag806.png",
+	"frame": {"x":2850,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag807.png",
+	"frame": {"x":3325,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag808.png",
+	"frame": {"x":3800,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag809.png",
+	"frame": {"x":4275,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag810.png",
+	"frame": {"x":4750,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag811.png",
+	"frame": {"x":5225,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag812.png",
+	"frame": {"x":5700,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag813.png",
+	"frame": {"x":6175,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag814.png",
+	"frame": {"x":6650,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "large-flag815.png",
+	"frame": {"x":7125,"y":6675,"w":475,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":267},
+	"sourceSize": {"w":475,"h":267},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "new-large-0.png",
+	"format": "RGBA8888",
+	"size": {"w":7600,"h":6942},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:da36b1acdfe564fbd029054ebf5fd1e7:9f7c23a393ee7760e339df301ca8d563:23d1ec164eae7b3577438fc21e025bd4$"
+}
+}

@@ -1,0 +1,231 @@
+.media-block{
+	@extend .clearfix;
+	padding: 0 ($visual-rhythm * 2) ($visual-rhythm * 2) ($visual-rhythm * 2);
+	width: 100%;
+	background: $loading-grey;
+	.media-wrap{
+		width: 100%;
+		height: 0%;
+		padding-bottom: 56.25%;
+		position: relative;
+		iframe{
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			z-index: 2;
+			left: 0;
+			top: 0;
+		}
+	}
+
+	h1, h2{
+
+		@include media("<phone") {
+			font-size: 2.4rem;
+			line-height: 2.4rem;
+		}
+
+	}
+}
+
+.media-block_page{
+	@extend .media-block;
+	padding: 0;
+	margin-bottom: 6rem;
+	height: 50vh;
+	position: relative;
+
+	.swiper-container-media-block{
+		height: 100%;
+		position: absolute;
+		width: 100%;
+
+		.swipe-prev-button,
+		.swipe-next-button{
+			@include transition(margin $fast);
+			cursor: pointer;
+			margin-top: -30px;
+			height: 60px;
+			width:60px;
+			background: $highlight-two;
+			position: absolute;
+			top: 50%;
+			z-index: 3;
+
+			.slant{
+				position: relative;
+				display: inline-block;
+				color: #fff;
+				width: 100%;
+				height: 60px;
+				display: block;
+				&:after {
+					content: '';
+					position: absolute;
+					top: 0;
+					right: -10px;
+					left: -10px;
+					height: 100%;
+					background: $highlight-two;
+					-webkit-transform-origin: 50% 50%;
+					-ms-transform-origin: 50% 50%;
+					transform-origin: 50% 50%;
+					z-index: -1;
+					-webkit-transform: skew(12deg);
+					-ms-transform: skew(12deg);
+					transform: skew(12deg);
+				}
+			}
+		}
+
+		.swipe-next-button{
+			right: 0;
+			margin-right: -30px;
+			svg{
+				position: absolute;
+				left: 0;
+				width: 27px;
+				top: 14px;
+			}
+		}
+
+		.swipe-prev-button{
+			left: 0;
+			margin-left: -30px;
+			svg{
+				position: absolute;
+				right: 0;
+				width: 27px;
+				top: 14px;
+			}
+		}
+	}
+
+	.text-wrap{
+		position: absolute;
+		z-index: 3;
+		top:0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		text-align: center;
+		color: $white;
+
+		.play-button {
+			width: auto !important;
+			height: auto !important;
+			position: static !important;
+			z-index: 2;
+		}
+
+		h2{
+			text-align: inherit;
+			color: inherit;
+			max-width: 550px;
+		}
+
+		p{	
+			display: none;
+
+			color: inherit;
+			text-align: inherit;
+			max-width: 550px;
+			margin-left: auto;
+			margin-right: auto;
+			padding-bottom: $visual-rhythm;
+			@include media(">phone") {
+				display: block;
+			}
+		}
+	}
+
+	.media-wrap{
+		width: 100%;
+		height: 100%;
+		padding: 0;
+		overflow: hidden;
+		position: relative;
+		.play-button, iframe{
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			z-index: 2;
+		}
+	}
+	img{
+		width: 100%;
+	}
+	.cover{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+
+		img, video{
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			margin: auto;
+			min-width: 50%;
+			min-height: 50%;
+			max-height: 50vh;
+			overflow-x: hidden;
+			z-index: 2;
+			&.cover-image{
+				position: absolute !important;
+				margin: 0;
+				background-repeat: no-repeat;
+				background-size: cover;
+				&.parallax {
+					z-index: 2;
+					height: 50vh;
+					background-attachment: fixed;
+					background-position: 0 0;
+				}
+			}
+		}
+	}
+	.gradient{
+		z-index: 2;
+	}
+
+
+	&.no-crop{
+		height: auto;
+		max-height: none;
+		.lazy{
+			min-height: 60vh;
+		}
+	}
+}
+
+
+.no-touchevents{
+	.swipe-next-button, .swipe-prev-button{
+		&:hover{
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+}
+
+.touchevents{
+	.play-button{
+		display: none;
+	}
+	.swipe-next-button, .swipe-prev-button{
+		&:active{
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+}
+
+.split-block{
+	.media-block_page{
+		// height: calc( 0.56 * ( 100vw - 300px ));
+	}
+}

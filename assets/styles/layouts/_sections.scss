@@ -1,0 +1,15 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the section layout
+// -----------------------------------------------------------------------------
+
+section{
+	@extend .clearfix;
+	width: 100%;
+	padding: 0;
+	display: inline-block;
+	background-size: cover !important;
+	background-position: center !important;
+	text-align: center;
+	vertical-align: top;
+	background-color: $white;
+}

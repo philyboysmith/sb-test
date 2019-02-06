@@ -1,0 +1,26 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the links e.g. text links and block links.
+// -----------------------------------------------------------------------------
+
+p{
+
+	a{
+		@include transition(color $fast);
+		color: $black;
+
+		&:visited{
+			color: $black;
+		}
+
+		&:hover{
+			color: ligthen($black, 10%);
+		}
+	}
+
+}
+
+.link{
+	@include rem(font-size, 20px);
+	@include rem(line-height, 22px);
+	margin: ($visual-rhythm / 4);
+}

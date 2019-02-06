@@ -1,0 +1,162 @@
+@charset 'UTF-8';
+
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+//
+//          69696969
+//       6969    696969
+//     969    69  6969696
+//    969        696969696
+//   969        69696969696
+//   696      9696969696969 	Get Ya Reset on.
+//    696     696969696969		"makes browsers render all elements more -
+//     696     696  96969		consistently and in line with modern standards."
+//       9696    969696
+//          96969696
+//
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+
+// 1. CSS Resets and fixes
+@import 'vendor/normalize';
+
+
+
+
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+//
+//  ,,,,,,, /=\  ,,,,,,, /=\  ,,,,,,, /=\
+// (\\\\\\\||=| (\\\\\\\||=| (\\\\\\\||=|	Nuts and bolts of this build
+//  ^^^^^^^ \=/  ^^^^^^^ \=/  ^^^^^^^ \=/	need will be pulgins.
+//           `            `            `
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+
+
+// 2. Plugins
+@import 'vendor/bourbon/bourbon';
+@import 'vendor/include-media';
+@import 'vendor/magnific';
+
+
+
+
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+//
+//           &&& &&  & &&
+//       && &\/&\|& ()|/ @, &&
+//       &\/(/&/&||/& /_/)_&/_&
+//    &() &\/&|()|/&\/ '%" & ()
+//   &_\_&&_\ |& |&&/&__%_/_& &&
+// &&   && & &| &| /& & % ()& /&&	Build up the roots with abstracts,
+//  ()&_---()&\&\|&&-&&--%---()~	Configuration and helpers
+//      &&     \|||
+//              |||
+//              |||
+//              |||
+//        , -=-~  .-^- _
+//
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+
+
+// 3. Configuration and helpers
+@import 'abstracts/variables';
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+@import 'base/helpers';
+@import 'base/base';
+@import 'base/typography';
+@import 'base/grid';
+
+
+
+
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+//
+//           _____          /|
+//        .-'@ & #`'-.     //
+//       / %        8 \   //		Lets build this beast please
+//      | m   () _     | //			place all scss styles in correct
+//       \  0   ( '-._/ //			places bellow
+//        '-.____'.     y
+//
+//  _   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-._   ("-.
+//   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )   )
+//  (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"   (_,-"
+
+
+// 4. Elements
+@import 'elements/links';
+@import 'elements/buttons';
+@import 'elements/lists';
+@import 'elements/forms';
+@import 'elements/inputs';
+@import 'elements/overlay';
+
+@import 'elements/flickity';
+@import 'elements/tiles';
+@import 'elements/thumb-blocks';
+@import 'elements/gallery-blocks';
+@import 'elements/text-block';
+@import 'elements/text-with-title-strip';
+@import 'elements/copy-paste-embed-box';
+@import 'elements/link-box';
+@import 'elements/line-up-menu';
+@import 'elements/model-obj';
+@import 'elements/sb-royalty';
+@import 'elements/big-signup';
+
+// 5. Global Modules
+@import 'modules/header';
+@import 'modules/footer';
+@import 'modules/share-bar';
+@import 'modules/swiper';
+
+// 6. Cross Page Modules
+@import 'modules/video-player';
+@import 'modules/news-and-promos-sidebar';
+@import 'modules/media-block';
+@import 'modules/page-header';
+@import 'modules/collections-block';
+@import 'modules/image-link-block';
+@import 'modules/characters';
+@import 'modules/package-slider';
+@import 'modules/four-o-four';
+@import 'modules/link-block';
+@import 'modules/expanding-content-block';
+@import 'modules/slanted-link-box';
+
+// 7. Page Specific Modules
+// homepage
+@import 'modules/flag-block';
+@import 'modules/updates';
+@import 'modules/home-page-artists-module';
+
+// 8. Layouts
+@import 'layouts/pages';
+@import 'layouts/sections';
+@import 'layouts/slices';
+@import 'layouts/panel';
+
+
+// 9.pages
+@import 'pages/news';
+@import 'pages/lineup';
+@import 'pages/thank-you';
+
+// 10. 2018
+@import '2018/2018';
+@import '2018/hamburgers';
+@import '2018/nav';
+@import '2018/bootstrap';

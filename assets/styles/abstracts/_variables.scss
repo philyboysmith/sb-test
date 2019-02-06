@@ -1,0 +1,60 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+
+// SPEED
+$fast: 0.2s;
+$mid: 0.5s;
+
+// Base colours
+$white: #ffffff;
+$black: #191919;
+
+$text: #221a3e;
+$loading-grey: #f7f7f7;
+$light-grey: #fcffff;
+$mid-grey: #fafafa;
+$dark-grey: #cdcdcd;
+
+$highlight: #6a4ef3;
+$highlight_rollover: #5f46da;
+$off_highlight: #703df4;
+
+$highlight_text: #402c82;
+$dark_highlight: #21193e;
+$dark_10_highlight: rgba(33,25,62, 0.1);
+$dark_20_highlight: rgba(33,25,62, 0.2);
+$dark_80_highlight: rgba(33,25,62, 0.8);
+
+$highlight-two: #00ffb5;
+
+
+/// Container's maximum width
+/// @type Length
+$max-width: 1600px !default;
+$visual-rhythm: 2rem;
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+/// @see {mixin} respond-to
+ $breakpoints: (
+  'phone': 600px,
+  'tablet': 860px,
+  'desktop': 1050px,
+  'large-desktop': 1250px
+) !default;
+
+/// Relative or absolute URL where all assets are served from
+/// @type String
+/// @example scss - When using a CDN
+///   $base-url: 'http://cdn.example.com/assets/';
+$base-url: '/assets/' !default;
+
+
+%global-shadow{
+	-webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.2);
+	box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.2);
+}

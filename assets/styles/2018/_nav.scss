@@ -1,0 +1,197 @@
+// -----------------------------------------------------------------------------
+// This file contains styles for the new navbar built for the 2018 SB site
+// -----------------------------------------------------------------------------
+
+nav{
+	overflow:inherit;
+	ul {
+		list-style:none; 
+		padding-left:0;
+		margin: 0;
+		li {
+			display:inline-block;
+			height: auto;
+			padding-bottom:0;
+			a {
+				display:inline-block;
+				height: 70px;
+				padding:23px 6px 23px 0;
+				@include media(">desktop") {
+					&.shrink {
+						height: 52px;
+						padding: 15px 6px 15px 0;
+					}
+				}
+			}
+			div.expand {
+				display:none;
+			}
+			ul {
+				transition: all 0.2s;
+				// nav ul li ul desktop only
+				@media only screen and (min-width: 1251px)  {
+    				position: absolute;
+    				background: #fff;
+    				max-height:0;
+					overflow: hidden;
+    				width:auto;
+    				white-space: nowrap;
+    				top: 70px;
+    				opacity:0;
+					z-index: 999;
+					li {
+						height: auto;
+						display: block;
+						a {
+							display: block;
+							width: 100%;
+							text-align: left;
+							height:auto;
+							padding:5px 12px 5px 12px;
+							margin-left: 0!important;
+							&:hover {
+								color:#fff;
+								background:#221a3e;
+							}
+						}
+					}
+				}
+				@include media(">desktop") {
+					&.shrink {
+						top: 51px;
+						li {
+							a {
+								height: 35px;
+								padding:5px 12px 5px 12px;
+							}
+						}
+					}
+				}
+				// nav ul li ul tablet and below
+				@media only screen and (max-width: 1250px)  {
+					overflow: hidden;
+					width: 100%;
+					max-height:0px;
+				}
+			}
+			// nav ul li hover
+			&:hover {
+				color:#221a3e;
+				ul {
+    				opacity:2;
+					
+					@media only screen and (min-width: 1251px)  {
+						max-height: 999px;
+					}
+				}
+    		}
+			// nav ul li tablet and below
+			@media only screen and (max-width: 1250px)  {
+				position: relative;
+				display:inherit; 
+				clear:both;
+				a {
+					display:inherit; 
+					height: 45px;
+					padding: 0;
+					span {
+						line-height:45px;
+					}
+				}
+				div.expand {
+					display:inherit; 
+					position:absolute; 
+					right:25px; 
+					a {
+						display:block; 
+						border:0!important;
+						padding: 15px;
+						height:auto;
+						line-height: inherit;
+						span {
+							padding:0; 
+							margin:0; 
+							line-height:0; 
+							height:0; 
+							border:0; 
+							font-size:30px
+						}
+					}
+				}
+				&.expanded {
+					div.expand {
+						a {
+							span {
+								
+							}
+						}
+					}
+				ul {
+					max-height:500px;
+						li {
+							a {
+								color:#fff;
+								background:#221a3e;
+							}
+						}
+					}
+    			}
+			}		
+		}
+		// nav ul tablet and below
+		@media only screen and (max-width: 1250px)  {
+   			padding:0;
+		}		
+	}
+	&.secondary {
+		&.expand {
+			position: fixed;
+			height: 100%;
+			display: block;
+			overflow: hidden;
+			top: 69px;
+			background-color: $white;
+		}
+	}
+}
+header.main-nav{
+    overflow:inherit;
+	&.open {
+		max-height: 100%;
+	}
+	.header-flag {
+		img {
+			display:none;
+		}		
+	}
+	@media only screen and (max-width: 1250px)  {
+   		overflow:hidden;
+		&.open {
+			max-height: 100%;
+		}
+		.header-flag {
+			background:none;
+			position: absolute;
+			margin-left:-55px;
+			left:50%;
+			.flag {
+				background: none!important;
+				width:130px;
+				height:auto;
+				margin-top: -4px;
+				img {
+					display: block;
+					width:220px;
+				}
+			}
+		}
+	}
+	@media only screen and (max-width: 1250px)  {
+		.promo-block {
+			img {
+				// width:100px!important;
+			}
+		}
+	}
+	transition: all 0.2s;
+}

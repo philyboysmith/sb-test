@@ -1,0 +1,41 @@
+
+
+%block-rhythem{
+	margin: 0 auto ($visual-rhythm * 1) auto;
+	@include media(">phone") {
+		margin: 0 auto ($visual-rhythm * 2) auto;
+	}
+}
+
+
+%text-block-rhythem{
+	padding: ($visual-rhythm * 2) 0 ($visual-rhythm * 1) 0;
+	@include media(">phone") {
+		padding: ($visual-rhythm * 3) 0 ($visual-rhythm * 3) 0;
+	}
+	@include media(">tablet") {
+		padding: ($visual-rhythm * 5) 0 ($visual-rhythm * 5) 0;
+	}
+	&.small-pad{
+		padding-bottom: $visual-rhythm;
+	}
+}
+
+%typographic-rhythem{
+	padding-bottom:($visual-rhythm / 2);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+%list-rhythem{
+	padding-bottom:($visual-rhythm / 2);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.half{
+	// max-width: 600px;
+	@include media(">tablet") {
+		width: 50%;
+	}
+}
